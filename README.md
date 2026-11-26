@@ -1,1 +1,1 @@
-This is a AI-CHATBOT
+# Starting Application - NextJS TypeScript
